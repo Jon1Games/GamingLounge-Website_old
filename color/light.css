@@ -1,0 +1,19 @@
+@import url("all.css");
+
+body {
+    background-color: white;
+    color: black;
+    background: url(../images/hintergrund01.png);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.block {
+    color: #141618;
+    background: #fff;
+}
+
+.hyperlink {
+    textdecoration: underlined;
+    color: black;
+}
